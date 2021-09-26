@@ -10,7 +10,7 @@ typedef struct
 	float gasto;
 } Cliente;
 
-int n = 2;
+int n = 10;
 Cliente *lista;
 int i = 0;
 
