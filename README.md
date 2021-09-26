@@ -1,2 +1,2 @@
 # faculdade
-Repositório para postagem de exercios
+Repositório para postagem de exercícios.
